@@ -1,0 +1,3 @@
+# Use fork of Nuitka because of a bug when using the Windows platform: https://github.com/kayhayen/Nuitka/pull/5
+https://github.com/Ecno92/Nuitka/archive/develop.zip
+PySide==1.2.2
