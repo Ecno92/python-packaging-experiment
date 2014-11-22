@@ -17,7 +17,7 @@ You can find the code for those apps in the ``apps/`` folder.
     :align: center
     :alt: Fronzen Hello World Apps
 
-Be aware that this is a pet project which I will not continue the development of it. 
+Be aware that this is a pet project and I'm not going to develop it further. 
 
 Freezing software and tested environment
 ========================================
@@ -40,4 +40,4 @@ Instructions
 **Notes:** 
 
 * GNU make is not available on Windows by default. I used Cygwin to be able to use it. You can also open the Makefiles to see which commands you need to execute manually. 
-* Nuitka seems to have some troubles with virtualenv's. cx_Freeze also has some issues, but those are not blocking. It's adviced to use your system Python to ensure everything goes works well.
+* Nuitka seems to have some troubles with virtualenv's. cx_Freeze also has some issues, but those are not blocking. It's adviced to use your system Python to ensure everything works well.
